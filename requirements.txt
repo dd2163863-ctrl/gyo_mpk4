@@ -1,0 +1,2 @@
+aiohttp
+curl_cffi
